@@ -1,0 +1,1 @@
+module Thunderbird.Mbox () where
